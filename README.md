@@ -5,7 +5,7 @@
 
 ### *Click image to watch the Youtube video*
 
-[![Boids Flocking Simulation](boids-poster.jpg)](https://www.youtube.com/watch?v=)
+[![Boids Flocking Simulation](boids-poster.jpg)](https://www.youtube.com/watch?v=0SKBGBOVqho)
 
 ## Details
 Boids is a program that I wrote in Unity to simulate flocking behavior in 2D. It is part of a series of tech that I built for my top-down shooter to handle swarming enemies. There are many flocking demonstrations out there, but I added my own spin to the algorithm for my game AI by integrating finite state machines, smoother avoidance, and configurable weights for fine-tuning.
