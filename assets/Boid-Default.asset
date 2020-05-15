@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66af1b330a2c2647bcb6a5c6f712224, type: 3}
+  m_Name: Boid-Default
+  m_EditorClassIdentifier: 
+  MoveSpeed: 2
+  TurnTime: 0.25
+  CheckLayer:
+    serializedVersion: 2
+    m_Bits: 1
+  CheckRadius: 3
+  KeepDistance: 3
+  Threshold: 0.5
+  PathWeight: 3
+  CohesionWeight: 4
+  AlignmentWeight: 9
+  SeparationWeight: 0.6
